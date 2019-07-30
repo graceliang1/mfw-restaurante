@@ -46,7 +46,7 @@
     background-color: rgba(17,17,17.2);
 }
 
-nav.navbar {
+nav.navbar-default {
     position: absolute;
     top: 100;
     right: 0;
@@ -139,7 +139,7 @@ nav.navbar {
     font-weight: 300;
 }
 
-#story-year {
+#story_year {
     font-family: 'Playfair Display', serif;
     font-size: 200px;
     font-weight: 700;
