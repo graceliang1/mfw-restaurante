@@ -10,9 +10,9 @@
 } */
 
 #our_story, 
-#review,as
+#review,
 #menu,
-#contact, {
+#contact {
     min-height: 600px;
 }
 
@@ -48,7 +48,7 @@
     background-color: rgba(17,17,17.2);
 }
 
-nav.navbar-default {
+nav.navbar {
     position: absolute;
     top: 100;
     right: 0;
